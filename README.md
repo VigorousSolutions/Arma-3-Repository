@@ -9,7 +9,8 @@ I will be starting on a new ultralight framework for Arma 3 with smart software.
 
 I plan on writing a robust unit testing framework for Arma 3.
 
-I have 10 + years coding experience with SQF and SQS.
+I have 10 + years coding experience with SQF and SQS under the handle "Gooncorp" and "Goon".
 
-Espen Skaar
+
+
 
